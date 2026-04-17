@@ -82,12 +82,13 @@ Default strengths:
 - tech-dark engineering aesthetic
 - code-native editing and iteration
 
-## Attribution
+## Acknowledgements
 
-This project is not a Gemini-only extension.
+Special thanks to the original `svg-architect` project for the design direction, prompt structure ideas, validation helpers, and reusable SVG workflow inspiration.
 
-It is a local adaptation of ideas and assets from:
+Source project:
 
-- [`zhaodl1983/svg-architect`](https://github.com/zhaodl1983/svg-architect)
+- Project name: `svg-architect`
+- Repository: [`https://github.com/zhaodl1983/svg-architect`](https://github.com/zhaodl1983/svg-architect)
 
-The goal here is to preserve the durable design system, templates, and validation helpers while removing agent-specific coupling and machine-specific assumptions.
+This repository is an independently adapted local multi-agent version. The goal here is to preserve the durable design system, templates, and validation helpers while removing agent-specific coupling and machine-specific assumptions.
