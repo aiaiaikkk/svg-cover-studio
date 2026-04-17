@@ -1,5 +1,7 @@
 # SVG Cover Studio
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 `svg-cover-studio` is a local, agent-agnostic SVG cover generation toolkit for developer content.
 
 It is designed for teams who want to generate and refine cover images, article headers, social cards, and lightweight technical visuals directly from code, without depending on a single model vendor or extension runtime.
